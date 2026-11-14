@@ -1,4 +1,4 @@
-# ATM Machine Simulation in C
+ # ATM Machine Simulation in C
 
 A simple console-based ATM simulator written in C that demonstrates basic banking operations using conditional statements (`if`, `else if`, `else`).
 
